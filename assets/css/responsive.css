@@ -273,5 +273,15 @@
     .number_details.number_details3 ul li:before {
         left: 0;
     }
-
+    .number {
+        background: #6DC64B;
+    }
+    
+    .number.nubmer2 {
+        background: #FF9C2A;
+    }
+    
+    .number.nubmer3 {
+        background: #777777;
+    }
 }
